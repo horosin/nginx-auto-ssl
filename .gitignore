@@ -1,0 +1,12 @@
+# Python specific
+venv
+*.pyc
+.coverage
+
+# Environment specific
+.DS_Store
+.vscode
+.idea/
+
+# Project specific
+web/clinicaldb/media/
