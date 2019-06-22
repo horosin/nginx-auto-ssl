@@ -9,4 +9,4 @@ venv
 .idea/
 
 # Project specific
-web/clinicaldb/media/
+certbot/
